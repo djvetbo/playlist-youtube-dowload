@@ -30,12 +30,12 @@ Ce projet est destiné aux utilisateurs souhaitant sauvegarder des playlists en 
 2. **Installer les dépendances :**
 
     ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### Utilisation
 
     ```bash
-  python playlist-youtube-dowload.py
+    python playlist-youtube-dowload.py
 
 ### Fonctionnalités principales
 
