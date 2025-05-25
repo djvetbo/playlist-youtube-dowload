@@ -25,3 +25,11 @@ Ce projet est destiné aux utilisateurs souhaitant sauvegarder des playlists en 
 
    ```bash
    git clone https://github.com/djvetbo/playlist-youtube-dowload.git
+   cd playlist-youtube-dowload
+   
+### Installer les dépendances
+
+```bash
+pip install -r requirements.txt
+
+
