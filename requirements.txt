@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Interface graphique et widgets thématiques
+ttkbootstrap>=1.6.1
+
+# API YouTube Music
+ytmusicapi>=0.14.0
+
+# Téléchargeur YouTube (utilisé en ligne de commande, mais disponible en tant que package pip)
+yt-dlp>=2021.12.1
