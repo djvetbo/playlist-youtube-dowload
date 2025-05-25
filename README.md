@@ -24,5 +24,4 @@ Ce projet est destiné aux utilisateurs souhaitant sauvegarder des playlists en 
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone [https://github.com/VotreNomUtilisateur/YouTubeMusicDownloader.git](https://github.com/djvetbo/playlist-youtube-dowload/new/main?filename=README.md)
-   cd YouTubeMusicDownloader
+   git clone https://github.com/djvetbo/playlist-youtube-dowload.git
