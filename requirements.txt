@@ -6,5 +6,9 @@ ttkbootstrap>=1.6.1
 # API YouTube Music
 ytmusicapi>=0.14.0
 
-# Téléchargeur YouTube (utilisé en ligne de commande, mais disponible en tant que package pip)
+# Téléchargeur YouTube
 yt-dlp>=2021.12.1
+
+# Manipulation des métadonnées audio (tags, couverture, etc.)
+mutagen>=1.45.1
+
