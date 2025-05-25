@@ -32,7 +32,26 @@ Ce projet est destiné aux utilisateurs souhaitant sauvegarder des playlists en 
    git clone https://github.com/djvetbo/playlist-youtube-dowload.git
    cd playlist-youtube-dowload
    
-2. **Installer les dépendances :**
+2. **Créer un environnement virtuel (sous Linux Mint) :**
+
+- Installer python3-venv (si ce n’est pas déjà fait) :
+  
+   ```bash
+   sudo apt install python3-venv
+   
+- Créer l’environnement dans ton dossier de projet :
+  
+   ```bash
+   python3 -m venv venv
+
+- Activer l’environnement :
+
+  ```bash
+  source venv/bin/activate
+
+Tu sauras que l’environnement est actif si tu vois (venv) au début de ta ligne de commande.
+   
+3. **Installer les dépendances :**
 
     ```bash
     pip install -r requirements.txt
