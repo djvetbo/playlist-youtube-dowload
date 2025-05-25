@@ -17,9 +17,11 @@ Ce projet est destiné aux utilisateurs souhaitant sauvegarder des playlists en 
   - `ytmusicapi`  
   - `ttkbootstrap`  
   - `tkinter` (généralement inclus avec Python)
+
+- **Fichiers** :  
   - `headers_auth.json`
   - `ytmusic_cookies.txt`
-
+    
 ---
 
 ### Installation
