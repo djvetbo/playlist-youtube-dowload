@@ -34,8 +34,10 @@ Ce projet est destiné aux utilisateurs souhaitant sauvegarder des playlists en 
 
 ### Utilisation
 
-  ```bash
-  pip install -r requirements.txt
+1. **Utilisation :**
+
+    ```bash
+   python playlist-youtube-dowload.py
 
 ### Fonctionnalités principales
 
